@@ -26,7 +26,7 @@ Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) para o 
 ```
 ├── data/                # Arquivos CSV
 ├── notebooks/           # Análises e gráficos
-├── images/              # Visualizações geradas
+├── imagens/              # Visualizações geradas
 └── README.md            # Documentação do projeto
 ```
 
